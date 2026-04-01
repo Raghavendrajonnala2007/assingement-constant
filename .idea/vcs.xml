@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitDemo/Demo-first-master-class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitDemo/LocalRepo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitDemo/LocalRepo/localrepo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/expression evaluator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects" vcs="Git" />
+  </component>
+</project>
